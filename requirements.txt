@@ -17,7 +17,7 @@ dill==0.2.8.2
 dnspython==1.15.0
 docutils==0.14
 entrypoints==0.2.3
-eventlet==0.24.1
+eventlet==0.31.0
 fasttext==0.8.22
 gensim==3.6.0
 greenlet==0.4.15
